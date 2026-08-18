@@ -1,0 +1,6 @@
+Date,Time,NumberPlate,RegisteredState,OwnerName,VehicleType,VehicleModel,AccessStatus,Confidence
+2026-08-18,07:51:09,HH12DE1433,Maharashtra,Rahul Sharma,Car,Maruti Swift,Granted,0.57
+2026-08-18,07:51:19,HR25DK8337,N/A,Unknown Vehicle,N/A,N/A,Denied,0.74
+2026-08-18,07:52:40,KL01AZ5555,Kerala,John Mathew,Truck,Tata SE cowl Truck,Granted,0.79
+2026-08-18,08:14:59,HR25DK8337,N/A,Unknown Vehicle,N/A,N/A,Denied,0.54
+2026-08-18,08:15:03,HR26DK8337,N/A,Unknown Vehicle,N/A,N/A,Denied,0.90
